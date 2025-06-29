@@ -431,6 +431,7 @@ from .sweetcsdesigns import SweetCsDesigns
 from .sweetpeasandsaffron import SweetPeasAndSaffron
 from .swissmilk import SwissMilk
 from .tableanddish import TableAndDish
+from .tamingtwins import TamingTwins
 from .tasteatlas import TasteAtlas
 from .tasteau import TasteAU
 from .tasteofhome import TasteOfHome
@@ -738,6 +739,7 @@ SCRAPERS = {
     SugarHero.host(): SugarHero,
     SwissMilk.host(): SwissMilk,
     TableAndDish.host(): TableAndDish,
+    TamingTwins.host(): TamingTwins,
     TasteAtlas.host(): TasteAtlas,
     TatyanasEverydayFood.host(): TatyanasEverydayFood,
     TastingHistory.host(): TastingHistory,
